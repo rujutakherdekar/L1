@@ -1,3 +1,4 @@
 file4 v1
 file4 v2
 file4 v3
+file4 v4
